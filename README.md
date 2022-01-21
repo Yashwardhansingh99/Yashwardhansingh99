@@ -6,7 +6,7 @@
       Listening music
 
 - 🌱 I’m currently learning ..
-      Javascript
+      Java
 
 - 📫 How to reach me ...
       yashwardhan.kumar.singh@gmail.com
