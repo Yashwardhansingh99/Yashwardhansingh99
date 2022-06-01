@@ -13,7 +13,8 @@
       React
       HTML
       Css
-      
+      Git
+      MongoDB
 
 - 📫 How to reach me ...
       yashwardhan.kumar.singh@gmail.com
