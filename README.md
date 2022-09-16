@@ -5,12 +5,13 @@
       Editing
       Listening music
 
-- 🌱 I’m currently learning ..
+- 🌱 I have completed my ....
       Full Stack Developement - MERN Stack
       Java
       JavaScript
       Node JS
-      React
+      React JS
+      Express JS
       HTML
       Css
       Git
